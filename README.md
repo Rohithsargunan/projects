@@ -1,8 +1,11 @@
 This research project focuses on developing a predictive model for estimating passenger travel in India's domestic aviation sector while also assessing customer satisfaction factors. Leveraging advanced statistical methods such as ARIMA and SARIMA for passenger demand forecasting and Random Forest for customer satisfaction prediction, the study achieves a holistic understanding of the complex relationship between expected passenger numbers and consumer happiness.
 
-Methodology
-Data Collection: Utilizing a diverse dataset sourced from Kaggle and the Indian government, encompassing over 20,000 observations, the research explores both passenger travel patterns and customer satisfaction metrics anonymously.
-Modeling Approach: The study employs time series modeling techniques like ARIMA and SARIMA for passenger demand forecasting, complemented by machine learning techniques such as Random Forest for predicting customer satisfaction based on various parameters.
+**Methodology**
+
+**Data Collection:**
+Utilizing a diverse dataset sourced from Kaggle and the Indian government, encompassing over 20,000 observations, the research explores both passenger travel patterns and customer satisfaction metrics anonymously.
+**Modeling Approach:** 
+The study employs time series modeling techniques like ARIMA and SARIMA for passenger demand forecasting, complemented by machine learning techniques such as Random Forest for predicting customer satisfaction based on various parameters.
 Integration and Analysis: The integration of ARIMA/SARIMA forecasts with Random Forest insights enables the identification of critical factors influencing passenger travel and customer satisfaction.
 Evaluation and Validation: Model performance is rigorously evaluated using accuracy scores, Mean Absolute Error, and validated through techniques like K-fold cross-validation and GridSearchCV fine-tuning.
 Results and Discussion
