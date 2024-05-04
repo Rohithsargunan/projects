@@ -1,4 +1,4 @@
-**AIRLINE CUSTOMER SATISFACTION PREDICTION AND FORECASTING USING RANDOM FOREST AND ARIMA
+**AIRLINE CUSTOMER SATISFACTION PREDICTION AND FORECASTING USING RANDOM FOREST AND ARIMA**
 
 This project focuses on developing a predictive model for estimating passenger travel in India's domestic aviation sector while also assessing customer satisfaction factors. Leveraging advanced statistical methods such as ARIMA and SARIMA for passenger demand forecasting and Random Forest for customer satisfaction prediction, the study achieves a holistic understanding of the complex relationship between expected passenger numbers and consumer happiness.
 
